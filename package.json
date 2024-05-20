@@ -1,0 +1,16 @@
+{
+  "name": "tnt-starter",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@thombruce/tnt": "^0.17.0",
+    "nuxt": "^3.11.2"
+  }
+}
